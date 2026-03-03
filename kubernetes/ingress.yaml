@@ -5,7 +5,7 @@ metadata:
 spec:
   ingressClassName: traefik
   rules:
-    - host: tictactoe.local
+    - host: tictactoe.etherian.dev
       http:
         paths:
           - path: /
